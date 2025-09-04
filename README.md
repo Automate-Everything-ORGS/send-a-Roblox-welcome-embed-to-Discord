@@ -1,2 +1,2 @@
-# send-a-Roblox-welcome-embed-to-Discord
+# Send a Roblox Embed Welcome to Discord
 Coming Soon!
